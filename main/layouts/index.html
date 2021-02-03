@@ -1,15 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {{ $css := "css/style.css" | absURL }}
-    <link rel="stylesheet" href="{{ $css }}">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-    <title>{{ .Title }}</title>
-  </head>
-  <body>
+{{ define "main" }}
     <div>
       <main>
           <h1 class="title">{{ .Title }}</h1>
@@ -18,11 +7,11 @@
       </main>
     </div>
     <div class="midsection">
+    <p>{{ .Content}}
     <ul>
     <li>content</li>
     <li>goes</li>
     <li>here</li>
     </ul>
     </div>
-  </body>
-</html>
+{{ end }}

@@ -3,4 +3,7 @@ languageCode = "en-us"
 title = "tofu: what and how"
 
 [permalinks]
-  type = "/:filename/"
+  type = "/filename/"
+
+  [params]
+  homeText = "quick guide to tofu! which should you choose?"

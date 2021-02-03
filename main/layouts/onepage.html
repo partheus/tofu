@@ -1,18 +1,6 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {{ $css := "css/style.css" | absURL }}
-    <link rel="stylesheet" href="{{ $css }}">
-    <title>{{ .Title }}</title>
-  </head>
-  <body>
-    <div>
-      <main>
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
-      </main>
-    </div>
-  </body>
-</html>
+{{ define "main" }}
+
+<h1 class="title">{{ .Title }}</h1>
+{{ .Content }}
+
+{{ end }}
