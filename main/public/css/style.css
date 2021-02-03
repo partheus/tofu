@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(124, 20, 93);
+    color: rgb(255, 255, 255);
+    /* margin-left: 10%; */
+    font-family: 'Work Sans', sans-serif;
+}
+
+.title {
+    font-size: 2rem;
+    padding: 20px;
+    border: rgba(218, 230, 151, 0.753);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.midsection {
+    font-weight: 400;
+    font-size: 1.25rem;
+    padding: 20px;
+    border: rgba(218, 230, 151, 0.753);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+}
