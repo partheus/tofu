@@ -1,3 +1,6 @@
 baseURL = "https://tofu.buzz/"
 languageCode = "en-us"
 title = "tofu: what and how"
+
+[permalinks]
+  type = "/:filename/"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tofu: what and how</title>
-    <link>https://tofu.buzz/</link>
-    <description>Recent content on tofu: what and how</description>
+    <title>Types on tofu: what and how</title>
+    <link>https://tofu.buzz/type/</link>
+    <description>Recent content in Types on tofu: what and how</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 21:31:25 -0600</lastBuildDate><atom:link href="https://tofu.buzz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 21:31:25 -0600</lastBuildDate><atom:link href="https://tofu.buzz/type/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Silken</title>
       <link>https://tofu.buzz/silken/</link>
