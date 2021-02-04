@@ -3,7 +3,19 @@ languageCode = "en-us"
 title = "tofu: what and how"
 
 [permalinks]
-  type = "/filename/"
+  type = "/:filename/"
 
-  [params]
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "type"
+    pre = "edit"
+    url = "/type/"
+    weight = 2
+
+[params]
   homeText = "quick guide to tofu! which should you choose?"
