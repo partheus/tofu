@@ -2,10 +2,14 @@
 <html lang="en">
 {{ partial "head.html" . }}
   <body>
-  {{ partial "nav.html" . }}
+  
     <div>
       <main id="main">
-       {{ block "main" . }}{{ end }}
+      
+       {{ block "main" . }}
+       
+       {{ end }}
+       {{ partial "nav.html" . }}
       </main>
     </div>
   </body>
