@@ -1,13 +1,13 @@
 baseURL = "https://tofu.buzz/"
 languageCode = "en-us"
-title = "tofu: the varieties"
+title = "Tofu: The Varieties"
 
 [permalinks]
   type = "/:filename/"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "home"
     pre = "home"
     url = "/"
     weight = 1
@@ -18,4 +18,4 @@ title = "tofu: the varieties"
     weight = 2
 
 [params]
-  homeText = "quick guide to the types of tofu!"
+  homeText = ""

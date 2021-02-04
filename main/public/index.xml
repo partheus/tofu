@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tofu: what and how</title>
+    <title>Tofu: The Varieties</title>
     <link>https://tofu.buzz/</link>
-    <description>Recent content on tofu: what and how</description>
+    <description>Recent content on Tofu: The Varieties</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Feb 2021 15:43:44 -0600</lastBuildDate><atom:link href="https://tofu.buzz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Extrafirm</title>
+      <title>extrafirm</title>
       <link>https://tofu.buzz/extrafirm/</link>
       <pubDate>Thu, 04 Feb 2021 15:43:44 -0600</pubDate>
       
