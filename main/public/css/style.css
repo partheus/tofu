@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(124, 20, 93);
-    color: rgb(255, 255, 255);
+    background-color: antiquewhite;
+    color: rgb(12, 104, 32);
     /* margin-left: 10%; */
     font-family: 'Work Sans', sans-serif;
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 12rem;
     padding: 20px;
     border: rgba(218, 230, 151, 0.753);
     border-style: solid;
