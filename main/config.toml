@@ -7,12 +7,12 @@ title = "Tofu: The Varieties"
 
 [menu]
   [[menu.main]]
-    name = "home"
+    name = "home/"
     pre = "home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "type"
+    name = "type/"
     pre = "edit"
     url = "/type/"
     weight = 2

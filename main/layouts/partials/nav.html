@@ -1,8 +1,8 @@
-<div class="navbar">
+<div>
   <nav id="nav">
   {{ range .Site.Menus.main }}
     {{ $text := print " " .Name | safeHTML }}
-    <a href="{{ .URL }}">{{ $text }}</a>
+    <a class="navbar" href="{{ .URL }}">{{ $text }}</a>
   {{ end }}
   </nav>
 </div>
