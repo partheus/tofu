@@ -51,10 +51,9 @@ p {
     font-weight: 700;  
 }
 
-/* .navtext {
-    right: 0;
-    color: red !important;
-} */
+.navtext {
+    font-weight: 700;
+}
 
 a {
     background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
