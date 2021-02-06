@@ -1,6 +1,7 @@
 body {
     background-color: rgb(232, 252, 250);
     color: rgb(2, 39, 10);
+    margin-top: 50%;
     margin-left: 2.5%;
     margin-right: 2.5%;
     font-family: 'Work Sans', sans-serif;
@@ -52,8 +53,8 @@ p {
 }
 
 .navtext {
-    right: 0;
-    color: red !important;
+    font-weight: 700;
+    font-size: 1.35rem;
 }
 
 a {

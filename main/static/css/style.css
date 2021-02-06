@@ -1,8 +1,9 @@
 body {
     background-color: rgb(232, 252, 250);
     color: rgb(2, 39, 10);
-    margin-left: 2.5%;
-    margin-right: 2.5%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -30,20 +31,25 @@ p {
 }
 
 .typelist {
-    font-size: 2rem;
-    padding-left: 5px;
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    padding-left: 25px;
     border: rgb(1, 40, 66);
     border-style: solid;
     border-width: 4.5px;
     border-radius: 10px;
-    padding: 7px;
 }
 
 .foot {
+    margin-top: 1.5%;
     color: rgb(62, 0, 65);
     font-size: 1.1rem;
     padding-left: 5px;
     padding: 25px;
+    border: rgb(35, 0, 82);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
 }
 
 .hypelink {

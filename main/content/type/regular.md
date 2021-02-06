@@ -1,5 +1,5 @@
 ---
-title: "Regular"
+title: "Regular Tofu"
 date: 2021-02-04T12:31:25-06:00
 draft: false
 ---
