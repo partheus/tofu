@@ -33,7 +33,7 @@ p {
     font-size: 2rem;
     padding-left: 5px;
     border: rgb(1, 40, 66);
-    border-style: dashed;
+    border-style: solid;
     border-width: 4.5px;
     border-radius: 10px;
     padding: 7px;
