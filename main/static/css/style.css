@@ -41,15 +41,10 @@ p {
 }
 
 .foot {
-    margin-top: 1.5%;
     color: rgb(62, 0, 65);
     font-size: 1.1rem;
     padding-left: 5px;
     padding: 25px;
-    border: rgb(35, 0, 82);
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 10px;
 }
 
 .hypelink {
