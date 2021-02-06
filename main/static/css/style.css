@@ -51,9 +51,9 @@ p {
     font-weight: 700;  
 }
 
-.navbar {
-    font-weight: 600;
-    font-size: 1.25rem;
+.navtext {
+    right: 0;
+    color: red !important;
 }
 
 a {
